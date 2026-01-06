@@ -1,0 +1,18 @@
+.h1 {
+    color: darkblue;
+    transition: 300ms;
+    
+    
+}
+
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.p {
+    font-size: 20px;
+    color: darkred;
+    
+    transition: 300ms;
+}
